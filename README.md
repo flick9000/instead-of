@@ -99,3 +99,20 @@ A curated list of free and open-source alternatives to common proprietary softwa
 > A tool for secrets management, encryption as a service, and privileged access management.
 
 <img width="800px" src="https://www.hashicorp.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F2885%2F1677792874-products-features-hero-vault.png&w=3840&q=75">
+
+
+## Instead of NordVPN, Surfshark
+### ProtonVPN
+> Proton VPN is a VPN service launched in 2017 and operated by the company Proton AG, the company behind the email service Proton Mail.
+
+<img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Protonvpn-gui_screenshot.png/800px-Protonvpn-gui_screenshot.png">
+
+### OpenVPN
+> OpenVPN is an open-source virtual private network (VPN) system.
+
+<img width="800px" src="https://openvpn.net/wp-content/uploads/access-server-admin-ui.jpg">
+
+### Wireguard
+> WireGuard is a communication protocol and free and open-source software that implements encrypted virtual private networks (VPNs).
+
+<img width="800px" src="https://www.qnap.com/uploads/images/how-to/202109/GUID-EFBBBB66-EE16-48A3-A5AA-ED7602C1ED0D-low.png">
