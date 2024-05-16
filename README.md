@@ -172,7 +172,7 @@ A curated list of free and open-source alternatives to common proprietary softwa
 - ### Jellyfin
   > Jellyfin is a free and open-source media server and suite of multimedia applications
 
-  <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Jellyfin_v10.6.0_movie_detail%2C_web_client.png">
+  <img width="800px" src="https://jellyfin.org/assets/images/10.8-home-4a73a92bf90d1eeffa5081201ca9c7bb.png">
 
 
 ## Instead of Lightshot
