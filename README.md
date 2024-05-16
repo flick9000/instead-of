@@ -2,22 +2,22 @@
 A curated list of free and open-source alternatives to common proprietary software.
 
 # Index
-[Instead of Windows, MacOS](#instead-of-windows-macos)
-[Instead of Chrome, Edge, Safari, Opera](#instead-of-chrome-edge-safari-opera)
-[Instead of Microsoft Suite](#instead-of-microsoft-suite)
-[Instead of Adobe Suite](#instead-of-adobe-suite)
-[Instead of Google Suite](#instead-of-google-suite)
-[Instead of Teams, Discord, Slack](#instead-of-teams-discord-slack)
-[Instead of using Evergreen, OneNote, Notion](#instead-of-using-evergreen-onenote-notion)
-[Instead of 1Password, LastPass](#instead-of-1password-lastpass)
-[Instead of NordVPN, Surfshark](#instead-of-nordvpn-surfshark)
-[Instead of Plex, Netflix](#instead-of-plex-netflix)
-[Instead of Lightshot](#instead-of-lightshot)
-[Instead of Windows Media Player](#instead-of-windows-media-player)
-[Instead of AutoCAD](#instead-of-autocad)
-[Instead of CCleaner](#instead-of-ccleaner)
-[Instead of VSCode](#instead-of-vscode)
-[Instead of Figma](#instead-of-figma)
+- [Instead of Windows, MacOS](#instead-of-windows-macos) <br/>
+- [Instead of Chrome, Edge, Safari, Opera](#instead-of-chrome-edge-safari-opera) <br/>
+- [Instead of Microsoft Suite](#instead-of-microsoft-suite) <br/>
+- [Instead of Adobe Suite](#instead-of-adobe-suite) <br/>
+- [Instead of Google Suite](#instead-of-google-suite) <br/>
+- [Instead of Teams, Discord, Slack](#instead-of-teams-discord-slack) <br/>
+- [Instead of using Evergreen, OneNote, Notion](#instead-of-using-evergreen-onenote-notion) <br>
+- [Instead of 1Password, LastPass](#instead-of-1password-lastpass) <br/>
+- [Instead of NordVPN, Surfshark](#instead-of-nordvpn-surfshark) <br/>
+- [Instead of Plex, Netflix](#instead-of-plex-netflix) <br/>
+- [Instead of Lightshot](#instead-of-lightshot) <br/>
+- [Instead of Windows Media Player](#instead-of-windows-media-player) <br/>
+- [Instead of AutoCAD](#instead-of-autocad) <br/>
+- [Instead of CCleaner](#instead-of-ccleaner) <br/>
+- [Instead of VSCode](#instead-of-vscode) <br/>
+- [Instead of Figma](#instead-of-figma) <br/>
 
 ## Instead of Windows, MacOS
 - ### Linux
