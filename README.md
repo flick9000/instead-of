@@ -1,6 +1,8 @@
 # Instead of {}
 A curated list of free and open-source alternatives to common proprietary software.
 
+# Index
+
 ## Instead of Windows, MacOS
 ### Linux
 > Linux is a family of open-source Unix-like operating systems based on the Linux kernel.
@@ -33,6 +35,23 @@ A curated list of free and open-source alternatives to common proprietary softwa
 > LibreWolf is a free and open-source web browser and fork of Firefox, with an emphasis on privacy and security.
 
 <img width="800px" src="https://ubunlog.com/wp-content/uploads/2022/06/librewolf.jpg">
+
+
+## Instead of Microsoft Suite
+### Word > LibreOffice Writer
+> LibreOffice Writer is the free and open-source word processor and desktop publishing component of the LibreOffice software package
+
+<img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Libre_Office_7.2_%28writer%29.png">
+
+### Excel > LibreOffice Calc
+> LibreOffice Calc is the spreadsheet component of the LibreOffice software package.
+
+<img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/LibreOffice_Calc_6.4.png">
+
+### Powerpoint > LibreOffice Impress
+> A presentation program resembling Microsoft PowerPoint. Impress has support for multiple file formats including PPTX, ODP, and SXI.
+
+<img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/LibreOffice_Impress_7.1.2_%28released_in_2021-04%2C_running_on_Linux_and_GNOME_with_the_default_icon_set%29.png">
 
 
 ## Instead of Adobe Suite
@@ -74,23 +93,6 @@ A curated list of free and open-source alternatives to common proprietary softwa
 <img width="800px" src="https://www.darktable.org/images/screenshot_lighttable.jpg">
 
 
-## Instead of Microsoft Suite
-### Word > LibreOffice Writer
-> LibreOffice Writer is the free and open-source word processor and desktop publishing component of the LibreOffice software package
-
-<img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Libre_Office_7.2_%28writer%29.png">
-
-### Excel > LibreOffice Calc
-> LibreOffice Calc is the spreadsheet component of the LibreOffice software package.
-
-<img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/LibreOffice_Calc_6.4.png">
-
-### Powerpoint > LibreOffice Impress
-> A presentation program resembling Microsoft PowerPoint. Impress has support for multiple file formats including PPTX, ODP, and SXI.
-
-<img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/LibreOffice_Impress_7.1.2_%28released_in_2021-04%2C_running_on_Linux_and_GNOME_with_the_default_icon_set%29.png">
-
-
 ## Instead of Google Suite
 ### Google Cloud > Nextcloud
 > Nextcloud is a suite of client-server software for creating and using file hosting services.
@@ -101,6 +103,23 @@ A curated list of free and open-source alternatives to common proprietary softwa
 > Collabora Online is an open source online office suite built on LibreOffice Technology
 
 <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Collabora_Online_Calc_6.4.9.png">
+
+
+## Instead of Teams, Discord, Slack
+### Zulip
+> Open-source team chat that helps teams stay productive and focused.
+
+<img width="800px" src="https://static.zulipchat.com/static/images/landing-page/hello/generated/screen-2-1x.jpg">
+
+### Mattermost
+> Mattermost is an open source platform for secure collaboration.
+
+<img width="800px" src="https://user-images.githubusercontent.com/7205829/136107976-7a894c9e-290a-490d-8501-e5fdbfc3785a.png">
+
+### Rocket.Chat
+> The communications platform that puts data protection first.
+
+<img width="800px" src="https://assets-global.website-files.com/611a19b9853b7414a0f6b3f6/617064b93b5df6410cfc6b55_Home.png">
 
 
 ## Instead of using Evergreen, OneNote, Notion
@@ -158,13 +177,6 @@ A curated list of free and open-source alternatives to common proprietary softwa
 <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/ShareX_Screenshot.png">
 
 
-## Instead of AutoCAD
-### FreeCAD
-> FreeCAD is an open-source CAD modeler and a BIM software application.
-
-<img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Clerget_9B_AeroMotor_Parametric_Solid_Model.gif">
-
-
 ## Instead of Windows Media Player
 ### VLC
 > VLC media player is a free and open-source, portable, cross-platform media player software.
@@ -175,3 +187,32 @@ A curated list of free and open-source alternatives to common proprietary softwa
 > mpv is free and open-source media player software based on MPlayer, mplayer2 and FFmpeg.
 
 <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Mpv_playing_Big_Buck_Bunny.png">
+
+
+## Instead of AutoCAD
+### FreeCAD
+> FreeCAD is an open-source CAD modeler and a BIM software application.
+
+<img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Clerget_9B_AeroMotor_Parametric_Solid_Model.gif">
+
+
+## Instead of CCleaner
+### Bleachbit
+> BleachBit is a free and open-source disk space cleaner, privacy manager, and computer system optimizer.
+
+<img width="800px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidZRgecHF0v9DCGGB7bwawVJYMFl9HZPJFgC2CG-95464R7yRjILMpC24UHr030DFZKyosRHgmO8EHuj6SyvNNAbgrTVsb8PIy5hAabEOgLuJAOeP4tU94yP06670SEWSVFySZN2WonD0/s1600/bleachbit-23.png">
+
+
+## Instead of VSCode
+### VSCodium
+> VSCodium is an open-source telemetry-less distribution of Microsoft’s editor VS Code.
+
+<img width="800px" src="https://vscodium.com/img/vscodium.png">
+
+
+## Instead of Figma
+### Penpot
+> The open-source design tool for design and code collaboration.
+
+<img width="800px" src="https://repository-images.githubusercontent.com/48769241/1e3fb75a-13e6-4d77-a658-e70e17fb1c6f">
+
