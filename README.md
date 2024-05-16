@@ -2,6 +2,22 @@
 A curated list of free and open-source alternatives to common proprietary software.
 
 # Index
+[Instead of Windows, MacOS](#instead-of-windows-macos)
+[Instead of Chrome, Edge, Safari, Opera](#instead-of-chrome-edge-safari-opera)
+[Instead of Microsoft Suite](#instead-of-microsoft-suite)
+[Instead of Adobe Suite](#instead-of-adobe-suite)
+[Instead of Google Suite](#instead-of-google-suite)
+[Instead of Teams, Discord, Slack](#instead-of-teams-discord-slack)
+[Instead of using Evergreen, OneNote, Notion](#instead-of-using-evergreen-onenote-notion)
+[Instead of 1Password, LastPass](#instead-of-1password-lastpass)
+[Instead of NordVPN, Surfshark](#instead-of-nordvpn-surfshark)
+[Instead of Plex, Netflix](#instead-of-plex-netflix)
+[Instead of Lightshot](#instead-of-lightshot)
+[Instead of Windows Media Player](#instead-of-windows-media-player)
+[Instead of AutoCAD](#instead-of-autocad)
+[Instead of CCleaner](#instead-of-ccleaner)
+[Instead of VSCode](#instead-of-vscode)
+[Instead of Figma](#instead-of-figma)
 
 ## Instead of Windows, MacOS
 - ### Linux
@@ -198,7 +214,7 @@ A curated list of free and open-source alternatives to common proprietary softwa
 - ### FreeCAD
   > FreeCAD is an open-source CAD modeler and a BIM software application.
 
-  <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Clerget_9B_AeroMotor_Parametric_Solid_Model.gif">
+  <img width="800px" src="https://wiki.freecad.org/images/thumb/2/2a/Freecad_default.jpg/1024px-Freecad_default.jpg">
 
 
 ## Instead of CCleaner
