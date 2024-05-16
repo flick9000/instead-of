@@ -27,6 +27,7 @@ A curated list of free and open-source alternatives to common proprietary softwa
 
 <img width="800px" src="https://ubunlog.com/wp-content/uploads/2022/06/librewolf.jpg">
 
+
 ## Instead of Adobe Suite
 ### Photoshop > GIMP
 > GNU Image Manipulation Program, commonly known as GIMP, is a free and open-source raster graphics editor used for image manipulation and image editing,
@@ -65,6 +66,7 @@ A curated list of free and open-source alternatives to common proprietary softwa
 
 <img width="800px" src="https://www.darktable.org/images/screenshot_lighttable.jpg">
 
+
 ## Instead of Microsoft Suite
 ### Word > LibreOffice Writer
 > LibreOffice Writer is the free and open-source word processor and desktop publishing component of the LibreOffice software package
@@ -85,3 +87,15 @@ A curated list of free and open-source alternatives to common proprietary softwa
 > Joplin is a free and open-source desktop and mobile note-taking and to-do list application written for macOS and Linux and Windows.
 
 <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Joplin_accueil.png">
+
+
+## Instead of 1Password, LastPass
+### Bitwarden
+> Bitwarden is a freemium open-source password management service that stores sensitive information, such as website credentials, in an encrypted vault. 
+
+<img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bitwarden_Desktop_MacOS.png/640px-Bitwarden_Desktop_MacOS.png">
+
+### Hashicorp Vault
+> A tool for secrets management, encryption as a service, and privileged access management.
+
+<img width="800px" src="https://www.hashicorp.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F2885%2F1677792874-products-features-hero-vault.png&w=3840&q=75">
