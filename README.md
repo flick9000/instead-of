@@ -116,3 +116,15 @@ A curated list of free and open-source alternatives to common proprietary softwa
 > WireGuard is a communication protocol and free and open-source software that implements encrypted virtual private networks (VPNs).
 
 <img width="800px" src="https://www.qnap.com/uploads/images/how-to/202109/GUID-EFBBBB66-EE16-48A3-A5AA-ED7602C1ED0D-low.png">
+
+
+## Instead of Windows Media Player
+### VLC
+> VLC media player is a free and open-source, portable, cross-platform media player software.
+
+<img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/2/26/VLC_media_player_3.0.16_screenshot.png">
+
+### MPV
+> mpv is free and open-source media player software based on MPlayer, mplayer2 and FFmpeg.
+
+<img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Mpv_playing_Big_Buck_Bunny.png">
