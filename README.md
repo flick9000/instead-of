@@ -139,11 +139,6 @@ A curated list of free and open-source alternatives to common proprietary softwa
 
 
 ## Instead of using Evergreen, OneNote, Notion
-- ### Obsidian
-  > Obsidian is a personal knowledge base and note-taking software application.
-
-  <img width="800px" src="https://obsidian.md/images/screenshot-1.0-hero-combo.png">
-
 - ### Joplin
   > Joplin is a free and open-source desktop and mobile note-taking and to-do list application written for macOS and Linux and Windows.
 
