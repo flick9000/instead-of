@@ -139,6 +139,11 @@ A curated list of free and open-source alternatives to common proprietary softwa
 
 
 ## Instead of using Evergreen, OneNote, Notion
+- ### Trillium
+  > Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
+
+  <img width="800px" src="https://raw.githubusercontent.com/wiki/zadam/trilium/images/screenshot.png">
+
 - ### Joplin
   > Joplin is a free and open-source desktop and mobile note-taking and to-do list application written for macOS and Linux and Windows.
 
