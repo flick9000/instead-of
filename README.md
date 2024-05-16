@@ -1,6 +1,13 @@
 # Instead of {}
 A curated list of free and open-source alternatives to common proprietary software.
 
+## Instead of Windows, MacOS
+### Linux
+> Linux is a family of open-source Unix-like operating systems based on the Linux kernel.
+
+<img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Linux_Mint_20.3_%28Una%29_Cinnamon.png">
+
+
 ## Instead of Chrome, Edge, Safari, Opera
 ### Brave Browser
 > Brave is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser.
@@ -135,6 +142,27 @@ A curated list of free and open-source alternatives to common proprietary softwa
 > WireGuard is a communication protocol and free and open-source software that implements encrypted virtual private networks (VPNs).
 
 <img width="800px" src="https://www.qnap.com/uploads/images/how-to/202109/GUID-EFBBBB66-EE16-48A3-A5AA-ED7602C1ED0D-low.png">
+
+
+## Instead of Plex, Netflix
+### Jellyfin
+> Jellyfin is a free and open-source media server and suite of multimedia applications
+
+<img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Jellyfin_v10.6.0_movie_detail%2C_web_client.png">
+
+
+## Instead of Lightshot
+### ShareX
+> ShareX is a free and open-source screenshot and screencast software for Windows.
+
+<img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/ShareX_Screenshot.png">
+
+
+## Instead of AutoCAD
+### FreeCAD
+> FreeCAD is an open-source CAD modeler and a BIM software application.
+
+<img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Clerget_9B_AeroMotor_Parametric_Solid_Model.gif">
 
 
 ## Instead of Windows Media Player
