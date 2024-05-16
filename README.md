@@ -83,10 +83,29 @@ A curated list of free and open-source alternatives to common proprietary softwa
 
 <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/LibreOffice_Impress_7.1.2_%28released_in_2021-04%2C_running_on_Linux_and_GNOME_with_the_default_icon_set%29.png">
 
-### Onenote > Joplin
+
+## Instead of Google Suite
+### Google Cloud > Nextcloud
+> Nextcloud is a suite of client-server software for creating and using file hosting services.
+
+<img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/2/23/File-Nextcloud_File_Manager_Screenshot.png">
+
+### Google Workspace > Collabora Online
+> Collabora Online is an open source online office suite built on LibreOffice Technology
+
+<img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Collabora_Online_Calc_6.4.9.png">
+
+
+## Instead of using Evergreen, OneNote, Notion
+### Joplin
 > Joplin is a free and open-source desktop and mobile note-taking and to-do list application written for macOS and Linux and Windows.
 
 <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Joplin_accueil.png">
+
+### Affine
+> AFFiNE is a workspace with fully merged docs, whiteboards and databases.
+
+<img width="800px" src="https://miro.medium.com/v2/resize:fit:1200/1*vW3NUQdWMxqMEbzMGnXS4A.png">
 
 
 ## Instead of 1Password, LastPass
