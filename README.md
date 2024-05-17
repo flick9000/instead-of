@@ -114,6 +114,11 @@ A curated list of free and open-source alternatives to common proprietary softwa
   > Nextcloud is a suite of client-server software for creating and using file hosting services.
 
   <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/2/23/File-Nextcloud_File_Manager_Screenshot.png">
+  
+- ### Google Photos > Immich
+  > High performance self-hosted photo and video management solution.
+
+  <img width="800px" src="https://immich.app/img/immich-screenshots.png">
 
 - ### Google Workspace > Collabora Online
   > Collabora Online is an open source online office suite built on LibreOffice Technology
@@ -131,11 +136,6 @@ A curated list of free and open-source alternatives to common proprietary softwa
   > Mattermost is an open source platform for secure collaboration.
 
   <img width="800px" src="https://user-images.githubusercontent.com/7205829/136107976-7a894c9e-290a-490d-8501-e5fdbfc3785a.png">
-
-- ### Rocket.Chat
-  > The communications platform that puts data protection first.
-
-  <img width="800px" src="https://assets-global.website-files.com/611a19b9853b7414a0f6b3f6/617064b93b5df6410cfc6b55_Home.png">
 
 
 ## Instead of using Evergreen, OneNote, Notion
@@ -161,10 +161,16 @@ A curated list of free and open-source alternatives to common proprietary softwa
 
   <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bitwarden_Desktop_MacOS.png/640px-Bitwarden_Desktop_MacOS.png">
 
+- ### Proton Pass
+  > Open-source password manager for effortless protection.
+
+  <img width="800px" src="https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1707728047/wp-pme/proton-pass-launch_384087d60c/proton-pass-launch_384087d60c.?_i=AA">
+  
 - ### Hashicorp Vault
   > A tool for secrets management, encryption as a service, and privileged access management.
 
   <img width="800px" src="https://www.hashicorp.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F2885%2F1677792874-products-features-hero-vault.png&w=3840&q=75">
+  
 
 
 ## Instead of NordVPN, Surfshark
@@ -189,6 +195,11 @@ A curated list of free and open-source alternatives to common proprietary softwa
   > Jellyfin is a free and open-source media server and suite of multimedia applications
 
   <img width="800px" src="https://jellyfin.org/assets/images/10.8-home-4a73a92bf90d1eeffa5081201ca9c7bb.png">
+  
+- ### Kodi 
+  > Kodi is an foss home theater/media center software and entertainment hub for digital media. 
+
+  <img width="800px" src="https://play-lh.googleusercontent.com/uR0IvwJNQoqsResWroeQSCYpw4nemXoiobqa0nhQT49J9KsuPJ4iVsrgDb5LHsm-Lg=w526-h296-rw">
 
 
 ## Instead of Lightshot
@@ -210,11 +221,23 @@ A curated list of free and open-source alternatives to common proprietary softwa
   <img width="800px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Mpv_playing_Big_Buck_Bunny.png">
 
 
+## Instead of Adobe Acrobat Pro
+- ### Okular
+  > Okular is a multiplatform document viewer developed by the KDE community.
+
+  <img width="800px" src="https://okular.kde.org/images/screenies/okular-main.png">
+
+  
 ## Instead of AutoCAD
 - ### FreeCAD
   > FreeCAD is an open-source CAD modeler and a BIM software application.
 
   <img width="800px" src="https://wiki.freecad.org/images/thumb/2/2a/Freecad_default.jpg/1024px-Freecad_default.jpg">
+  
+- ### OpenSCAD
+  > OpenSCAD is a free software application for creating solid 3D computer-aided design (CAD) objects.
+
+  <img width="800px" src="https://openscad.org/assets/img/screenshot.png">
 
 
 ## Instead of CCleaner
