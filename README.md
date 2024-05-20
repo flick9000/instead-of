@@ -246,6 +246,11 @@ A curated list of free and open-source alternatives to common proprietary softwa
 
   <img width="800px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidZRgecHF0v9DCGGB7bwawVJYMFl9HZPJFgC2CG-95464R7yRjILMpC24UHr030DFZKyosRHgmO8EHuj6SyvNNAbgrTVsb8PIy5hAabEOgLuJAOeP4tU94yP06670SEWSVFySZN2WonD0/s1600/bleachbit-23.png">
 
+- ### [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+  > Remove large amounts of unwanted applications quickly.
+  
+  <img width="800px" src="https://www.bcuninstaller.com/assets/1.png">
+
 
 ## Instead of VSCode
 - ### [VSCodium](https://vscodium.com/)
