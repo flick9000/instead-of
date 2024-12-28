@@ -52,6 +52,21 @@ A curated list of free and open-source alternatives to common proprietary softwa
 
   <img width="800px" src="https://ubunlog.com/wp-content/uploads/2022/06/librewolf.jpg">
 
+- ### [Arc Browser](https://arc.net/)
+  > Arc is a freeware web browser developed by The Browser Company, a startup company founded by Josh Miller and Hursh Agrawal.
+
+  <img width="800px" src="https://www.ilsoftware.it/app/uploads/2023/07/Arc-Browser-The-Browser-Company.png">
+
+- ### [Zen Browser](https://zen-browser.app/)
+  > Zen is a privacy-focused browser that blocks trackers, ads, and other unwanted content while offering the best browsing experience!
+
+  <img width="800px" src="https://techwiseinsider.com/wp-content/uploads/2024/10/Zen-Browser-Firefox-based-Browser.png">
+
+- ### [Floorp](https://floorp.app/)
+  > Floorp is a new Firefox based browser from Japan with excellent privacy & flexibility.
+
+  <img width="800px" src="https://images.fastcompany.com/image/upload/f_webp,c_fit,w_1920,q_auto/wp-cms/uploads/2024/02/p-1-91038756-why-floorp-has-become-browser-of-my-dreams.jpg">
+
 
 ## Instead of Microsoft Suite
 - ### Word > [LibreOffice Writer](libreoffice.org)
@@ -118,7 +133,7 @@ A curated list of free and open-source alternatives to common proprietary softwa
 - ### Google Photos > [Immich](https://immich.app/)
   > High performance self-hosted photo and video management solution.
 
-  <img width="800px" src="https://immich.app/img/immich-screenshots.png">
+  <img width="800px" src="https://immich.app/img/screenshot-light.webp">
 
 - ### Google Workspace > [Collabora Online](https://www.collaboraoffice.com/collabora-online/)
   > Collabora Online is an open source online office suite built on LibreOffice Technology
